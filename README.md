@@ -1,2 +1,2 @@
 # CI328Demo
-Demo of my game for module CI328
+A sample app built in Phaser
